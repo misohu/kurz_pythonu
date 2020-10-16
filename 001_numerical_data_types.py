@@ -6,3 +6,9 @@
 6 % 3
 abs(-3)
 2**2
+
+# V operáciách vieme použiť aj zátvorky
+(7 + 4) / (2 + (9 % 3))
+
+# V operáciách vieme kombinovať integer a float 
+4 + 1.45
