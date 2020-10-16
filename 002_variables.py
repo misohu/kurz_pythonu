@@ -1,3 +1,4 @@
+# Video https://youtu.be/iO-G70z1iqE
 # Do premennej mozme ulozit hocijaky datovy typ
 pocet_jablk=2 
 pocet_hrusiek=3.4

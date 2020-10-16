@@ -1,3 +1,4 @@
+# Video: https://youtu.be/JWLHUK16WTI
 # Datovy typ bool ma len dve hodnoty True a False
 true_value = True
 false_value = False

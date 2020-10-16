@@ -1,3 +1,4 @@
+# Video https://youtu.be/rEhB9esEu3U
 # List vieme definovat nasledovne
 number_list=[0,1,2,3,4,5,6,7]
 type(number_list)

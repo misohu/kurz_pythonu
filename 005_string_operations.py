@@ -1,3 +1,4 @@
+# Video: https://youtu.be/pUyZLSJHxZc
 # Stringy vieme scitavat. Toto sa nazyva konkatenacia alebo retazenie.
 string_concatenation="Hello" + "world"
 print(string_concatenation)
