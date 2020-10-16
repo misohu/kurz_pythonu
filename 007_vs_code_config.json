@@ -1,0 +1,19 @@
+{
+    "sublimeTextKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Solarized Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "python.linting.mypyEnabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.formatting.provider": "black",
+    "python.formatting.autopep8Path": "black",
+    "workbench.editor.enablePreview": false,
+    "workbench.settings.editor": "json",
+    "files.autoSave": "afterDelay"
+}
