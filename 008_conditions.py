@@ -67,10 +67,10 @@ else:
     print("Its false")
 
 # Pozor toto neplati pri porovnani s boolmi okrem cisla 1 
-1 == True
-0 == False
-2 == True 
--2 == True
+print(1 == True)
+print(0 == False)
+print(2 == True) 
+print(-2 == True)
 
 # Pravdivostnu hodnotu nadobudaju aj polia. Prazdne pole je False a ple s aspon jednym prvkom je True
 if []:
