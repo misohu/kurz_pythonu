@@ -1,9 +1,11 @@
 # Video
 # Jednoduchá podmienka. Splní sa ak je výraz v podmienke pravda. Vzdy musime cast vykonania oddelit 4 medzerami alebo tabulatorom.
+is_student=True
 if is_student == True:
     print("He is a programmer")
 
 # Ak vyraz nie je prava python vykona kod v casti else
+is_programmer=True
 if is_programmer == False:
     print("He is a programmer")
 else:
@@ -98,3 +100,4 @@ if is_programmer:
     is_programmer_string ="He is a programmer"
 else:
     is_programmer_string ="He is not a programmer"
+print(is_programmer_string)

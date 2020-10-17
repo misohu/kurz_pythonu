@@ -28,7 +28,10 @@ for i in [1,2,3,4]:
 counter = 0
 while True:  
     if counter == 2:
+        counter += 1
         continue
+    if counter >= 5:
+        break
     print(counter)
     counter += 1
 
