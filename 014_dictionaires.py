@@ -4,10 +4,8 @@
 mixed_dict = {
     "Michal" : 23,
     "Felipe" : 32,
-    0: "zero",
     True: "True",
     False: True,
-    int: "True"
 }
 print(mixed_dict)
 print(type(mixed_dict))
@@ -15,9 +13,7 @@ print(type(mixed_dict))
 # Pristup k prvkom
 mixed_dict['Michal']
 mixed_dict['Felipe']
-mixed_dict[0] # Careful not the same as in lists this refers to name not to the position 
 mixed_dict[True]
-mixed_dict[int]
 # mixed_dict['John'] # Error
 
 # Dict je mutable sam o sebe vieme teda menit hodnoty a aj ich vymazavat juchuu
@@ -64,8 +60,6 @@ person = { # DONT FORGET THE COMMAS
         "street_number": 45,
     }
 }
-# Dlzka
-len(person) # number of keys
 
 # Pristupn na zaklade klucu, ktory nevracia chybu pri neexistujucom kluci!! Moze zadefinovat hodnotu ktora sa vrati ked kluc neexistuje 
 person.get("name")  
