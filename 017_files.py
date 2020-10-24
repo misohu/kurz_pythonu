@@ -1,3 +1,4 @@
+# Video https://youtu.be/fb0x0YwInVM
 # Kazdy subor je tvoreny znakmi s znakom konca riadku
 # Fkazdy subor je ulozeny na mieste v pocitaci ku ktoremu vedie cesta
 # Riadky suboru koncia CR LF, \r\n (WINDOWS :'())  alebo len LF \n (MAC, LINUX)

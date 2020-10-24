@@ -1,3 +1,4 @@
+# Video https://youtu.be/f8m9egb6FDE
 # Toto je jednoriadkovy komment
 
 # Vsetko co je zakomentovane sa nikdy nevykona 

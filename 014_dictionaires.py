@@ -1,3 +1,4 @@
+# Video https://youtu.be/DdemSIz-MpQ
 # Slovnik alebo dictionari je datovy typ zalozeny na klucoch a ich hodnotach
 # Je to tzv json v pythone :D 
 # Definicia

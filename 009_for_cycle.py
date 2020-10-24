@@ -1,4 +1,4 @@
-# Video
+# Video https://youtu.be/VH_YaAI-BKI
 numbers = [1, 2, 3, 4, 5, 10]
 
 # Pomocou for cyklu vieme prechadzat cez polia

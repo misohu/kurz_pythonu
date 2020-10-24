@@ -1,3 +1,4 @@
+# Video https://youtu.be/kTFkZDNLHt4
 # While cyklus ma v sebe podmienku a funguje podobne ako if
 counter=0
 while counter< 5:

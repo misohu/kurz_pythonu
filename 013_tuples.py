@@ -1,3 +1,4 @@
+# Video https://youtu.be/AFTZeCB6WEk
 # Definicia tuple. Tuple je ako imutable list 
 number_tuple = (1, 2, 3)
 print(type(number_tuple))

@@ -11,6 +11,7 @@ result = addition(number1, number2)
 from mathematics2 import *
 from mathematics import *
 
+# Video https://youtu.be/ea6R0ZygfLM
 # importovat vieme aj z priecinku alebo podpriecinku
 from module_folder.mathematics import *
 from module_folder.module_subfolder.mathematics import print_text

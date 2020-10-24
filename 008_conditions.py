@@ -1,4 +1,4 @@
-# Video
+# Video https://youtu.be/S7HWbBG-vy4
 # Jednoduchá podmienka. Splní sa ak je výraz v podmienke pravda. Vzdy musime cast vykonania oddelit 4 medzerami alebo tabulatorom.
 is_student=True
 if is_student == True:

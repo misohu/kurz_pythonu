@@ -1,3 +1,4 @@
+# Video https://youtu.be/0YrtiuSQxuQ
 # Vynimky vieme zachytit v bloku try catch
 # x = 2/0 
 

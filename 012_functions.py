@@ -1,3 +1,4 @@
+# Video https://youtu.be/ZeTobU9tomc
 # Vlastna funkcia na scitanie dvoch cisel. Uistite sa ze ste pridali return
 def addition(a, b):
     result = a + b

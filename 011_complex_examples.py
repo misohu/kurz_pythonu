@@ -1,3 +1,4 @@
+# Video https://youtu.be/PY_sfXfCLOU
 # Priklad 1
 # Napiste kod ktory na zaklade 2 premennych vyska a sirka vypise mriezku vyplnenu hviezdickami
 # rows = 3
