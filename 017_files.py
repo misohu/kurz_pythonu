@@ -29,7 +29,7 @@ with open("data_file.txt", "r") as file:
         print(line, end='')
 
 # Zapis do suboru
-with open("new_data_file", "w") as file:
+with open("new_data_file.txt", "w") as file:
     for word in ["Michal", "HUcko", "is", "good", "teacher"]:
         file.write(word)
 
