@@ -8,14 +8,12 @@ for line in fileinput.input():
 
 # Citanie pomocou ss modulu jednorazovo 
 def get_input():
-    print("Please insert your number")
-    x = int(sys.stdin.readline())
-    return x 
+    print("Zadaj retazec")
+    input_string = sys.stdin.readline()
+    return int(input_string)
 
-# Citanie do vtedy kym nezadam 99
 while True:
-    number=get_input()
-    print(f"Your number is: {number}")
+    number= get_input()
+    print("The number is", number)
     if number == 99:
-        print("Number is 99 ending the loop")
-        break 
+        break
