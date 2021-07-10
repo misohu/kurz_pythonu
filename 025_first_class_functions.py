@@ -40,11 +40,10 @@ math_functions = [adder, substractor, multiplier]
 for function in math_functions:
     print(function(1, 2))
 
-list(map(lambda func: print(func(1,2)), math_functions))
 
 # Annonymous function
-def function_wrapper(func, x, y):
+def function_wrapper2(func, x, y):
     print("This is function wrapper")
     return func(x, y)
 
-print(function_wrapper(lambda x,y: x+y, 10, 20))
+print(function_wrapper2(lambda x,y: x+y, 10, 20))
