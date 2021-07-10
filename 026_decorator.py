@@ -85,7 +85,7 @@ def sleeper(seconds, name):
 # print(sleeper(5, "Michal"))
 
 
-# Introspection
+# Introspection TOTO JE BONUS NAD RAMEC VIDEA
 # Kazda funkcia si so sebou nesie meno a po dekorovani sa meni meno funkce 
 def hello_world():
     print("Hello world")
@@ -117,4 +117,5 @@ def hello_world():
 print(hello_world.__name__)
 
 # Domaca uloha spravte dekorator ktory zopakuje volanie funkcie 3 krat
+# DOMACA EXTRA spravte decorator ktory zavola dekorovanu funkciu n krat kde n je lubovolne cele kladne cislo 
 
